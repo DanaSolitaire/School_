@@ -1,0 +1,28 @@
+﻿  AssistedWI.cpp
+  AutoWI.cpp
+  Brush.cpp
+  Pen.cpp
+c:\users\solitd\desktop\comsci\cp2lab6\cp2lab6\pen.cpp(15): error C2678: binary '=': no operator found which takes a left-hand operand of type 'const std::string' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(2501): note: could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(2496): note: or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(2465): note: or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(2425): note: or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+          with
+          [
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(2300): note: or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept(<expr>)'
+  c:\users\solitd\desktop\comsci\cp2lab6\cp2lab6\pen.cpp(15): note: while trying to match the argument list '(const std::string, const std::string)'
+  Pencil.cpp
+  Stylus.cpp
+  writingInstrument.cpp
+  Generating Code...
+c:\users\solitd\desktop\comsci\cp2lab6\cp2lab6\pencil.cpp(30): error C4716: 'Pencil::getName': must return a value
