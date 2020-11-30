@@ -20,6 +20,7 @@ void populateDECK(std::string deck[], const unsigned SIZE, const std::string& FA
 int main(void) {
 	const unsigned SIZE = 52;
 	const std::string DECK[SIZE];
+	const std::string FACE = "23456789TJQKA";
 	const std::string SUIT = "CDHS";
 
 	displayDeck(DECK, SIZE);
