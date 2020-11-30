@@ -1,0 +1,5 @@
+﻿  solitaire_stringlist.cpp
+c:\users\solitd\desktop\comsci\data structures\project3_fix\project3_fix\solitaire_stringlist.cpp(243): warning C4715: 'DS::stringlist::operator[]': not all control paths return a value
+c:\users\solitd\desktop\comsci\data structures\project3_fix\project3_fix\solitaire_stringlist.cpp(291): warning C4715: 'DS::stringlist::find': not all control paths return a value
+c:\users\solitd\desktop\comsci\data structures\project3_fix\project3_fix\solitaire_stringlist.cpp(302): warning C4715: 'DS::stringlist::find': not all control paths return a value
+  Project3_fix.vcxproj -> C:\Users\solitd\Desktop\COMsci\Data Structures\Project3_fix\Debug\Project3_fix.exe
